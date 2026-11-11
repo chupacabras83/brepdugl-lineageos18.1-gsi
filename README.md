@@ -423,3 +423,6 @@ project does not redistribute the referenced ROMs, recoveries, or tools, and it 
 to relicense them. All referenced software (LineageOS, the TrebleDroid/phh GSIs, TWRP, Android
 platform-tools) remains the property of its respective projects and retains its original
 licensing terms. Refer to each upstream project for its license.
+
+## Update 2026-11-11
+A-only `agS` GSI flashed, boots fine (boot_completed=1, Wi-Fi/BT OK). See [docs/agS-flash-2026-11-11.md](docs/agS-flash-2026-11-11.md).
